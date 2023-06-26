@@ -1,0 +1,7 @@
+{
+  "name": "android-export-issue-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
